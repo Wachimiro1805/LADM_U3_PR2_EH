@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495403395808",
+    "project_id": "ladm-u3-pr2-eh",
+    "storage_bucket": "ladm-u3-pr2-eh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495403395808:android:4020c629cad2576ca13e85",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_pr2_eh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495403395808-1998moermmnhsbqnvvih837eilth4i6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3r3gd_9IueydwVtVni7DrUeMZCWzqw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495403395808-1998moermmnhsbqnvvih837eilth4i6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
